@@ -9,3 +9,5 @@ tags:
 # that's life
 
 what can i say?
+
+![vague 1](src/static/img/vague-1-poncin.jpg "vague une")
